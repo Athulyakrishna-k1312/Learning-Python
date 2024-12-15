@@ -1,4 +1,3 @@
-# Learning-Python
 # Hi, I'm Athulyakrishna! 👋
 
 🎓 **B.Tech IT Student** passionate about exploring technology.  
